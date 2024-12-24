@@ -1,5 +1,7 @@
 # FDA-Recall-Analysis
 
+Try the application here: https://fda-recall-analysis.streamlit.app/
+
 This project focuses on analyzing **medical device, food, and drug recall data** to identify 
             trends and insights related to **recalls across different product types**. The key objectives include:
 
@@ -24,4 +26,4 @@ The recall classification indicates the severity of the potential health risks a
 - **Class III Recall**: Use of or exposure to a violative product is not likely to cause adverse health consequences.
 
 ### Data:
-- https://fda-recall-analysis.streamlit.app/
+- https://datadashboard.fda.gov/ora/cd/recalls.htm 
