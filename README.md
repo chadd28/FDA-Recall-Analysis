@@ -24,5 +24,4 @@ The recall classification indicates the severity of the potential health risks a
 - **Class III Recall**: Use of or exposure to a violative product is not likely to cause adverse health consequences.
 
 ### Data:
-- https://datadashboard.fda.gov/ora/cd/recalls.htm
-''')
+- https://fda-recall-analysis.streamlit.app/
